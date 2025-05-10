@@ -250,4 +250,4 @@ See the instructions [here](https://github.com/mondediefr/docker-flarum/blob/mas
 
 ## License
 
-Docker image [mondedie/flarum](https://hub.docker.com/r/mondedie/flarum) is released under [MIT License](https://github.com/mondediefr/docker-flarum/blob/master/LICENSE).
+Docker image [mondedie/flarum](https://hub.docker.com/r/mondedie/flarum) is released under [MIT License](https://github.com/mondediefr/docker-flarum/blob/master/LICENSE). 
